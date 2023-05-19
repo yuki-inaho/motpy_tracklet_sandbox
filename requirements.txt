@@ -1,0 +1,4 @@
+motpy
+opencv-python
+matplotlib
+jupyterlab
